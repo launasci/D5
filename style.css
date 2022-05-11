@@ -1,4 +1,4 @@
-@media (max-width: 425px){
+
   .container {
     display: flex;
     background-color: #d5e1ef;
@@ -40,5 +40,3 @@
     text-align: center;
     margin-top: 8%;
   }
-  
-}
