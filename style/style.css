@@ -59,8 +59,8 @@ p {
   .fundo {
     display: flex;
     background-color: #fafafa;
-    width: 25%;
-    height: 62%;
+    width: 19%;
+    height: 56%;
     border-radius: 6%;
   }
 
@@ -73,13 +73,12 @@ p {
   }
 
   h1 {
-    font-size: 1.8rem;
-    margin-bottom: -5%;
+    font-size: 1.5rem;
     text-align: center;
   }
 
   p {
-    font-size: 1.3rem;
+    font-size: 1rem;
     text-align: center;
     margin-top: 10%;
   }
